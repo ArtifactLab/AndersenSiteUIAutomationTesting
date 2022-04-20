@@ -10,5 +10,4 @@ public class AppTest {
     void getStartTest() {
         open("https://www.google.ru/");
     }
-
 }
