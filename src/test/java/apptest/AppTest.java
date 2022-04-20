@@ -8,7 +8,7 @@ public class AppTest {
 
     @Test
     void getStartTest() {
-        open("https://www.google.ru/");
+        open("https://yandex.by/");
     }
 
 }
